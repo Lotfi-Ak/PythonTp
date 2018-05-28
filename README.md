@@ -20,3 +20,7 @@ L’ordinateur demande à un des deux joueurs de commencer et de joueur le premi
 Le jeu se termine s’il ne reste qu’une pierre à retirer d’un tas. Le joueur qui doit jouer à cette étape a perdu, et son score et nul. Pour le joueur gagnant, son score dépend du nombre de coups joués pour gagner. Si le nouveau score obtenu est plus petit que le meilleur score obtenu par le joueur dans les parties précedentes, la valeur du meilleur score est écrasée par la valeur du nouveau score. La valeur du score de la dernière partie est également mise à jour. Ces informations sont enregistées localement dans un fichier text ou un fichier pickle. L’ordinateur affiche à la fin, la liste des noms et scores des 10 meilleurs joueurs et propose une nouvelle partie ou quitter le jeu.
 
 Ce Jeux a été Programmé Par :
+- AKIL       LOTFI      L3 RO B G03 : 201400008303
+- AIT BOUALI TAREK      L3 RO B G03 : 201400007185
+- HALICHE    TAREK      L3 RO B G02 : 201400006928
+- CHABANE    ABDELWAHAB L3 RO B G03 : 201400007342
